@@ -1,0 +1,45 @@
+
+
+body {
+    background-color: #1f2833;
+    color: #fefefe;
+
+        font-family: Helvetica, Arial, sans-serif;
+}
+
+hr {
+    border-style: none;
+    border-bottom: 3px dotted #3E5065;
+    width: 20%;
+}
+
+.myName {
+    padding: 0;
+    margin: 0;
+}
+
+.myAuthor {
+    margin-top: 7px;
+}
+
+h1 {
+    font-size: 3.2em;
+}
+
+h3 {
+    font-size: 1.3em;
+}
+
+h1, h2, h3, h4, h5, h6, .ratings {
+    color: #66fcf1;
+}
+
+.author {
+    color: #c5c6c7;
+    font-size: 0.9em;
+}
+
+table th {
+    font-size: 1.2em;
+    padding-bottom: 5px;
+}
